@@ -1,0 +1,2112 @@
+[ 2017-03-08T08:47:17+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020002s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.028002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.029002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.036002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036002s ]
+
+[ 2017-03-08T09:01:37+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:01:42+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: Could not open ./Public//Excel/2017-03-08/20170342090142.xlsx for reading! File does not exist.
+
+[ 2017-03-08T09:02:03+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-03-08T09:02:07+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: Could not open ./Public/Excel/2017-03-08/20170307090207.xlsx for reading! File does not exist.
+
+[ 2017-03-08T09:04:17+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: Could not open ./Public/Excel/2017-03-08/20170317090417.xlsx for reading! File does not exist.
+
+[ 2017-03-08T09:05:53+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','msyc@2016') [ RunTime:0.0370s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','msyc@2016') [ RunTime:0.0330s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','msyc@2016') [ RunTime:0.0450s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','Msyc@2016') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','msyc@2016') [ RunTime:0.0240s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','msyc@2016') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','msyc@2016') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','msyc@2016') [ RunTime:0.0240s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','msyc@2016') [ RunTime:0.1620s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','msyc@2016') [ RunTime:0.0360s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','msyc@2016') [ RunTime:0.0200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:05:55+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:06:45+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 113 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-03-08T09:06:50+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0400s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0240s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','2fc795f1d62309cb8b0cdb3363972902') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0240s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:06:51+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:15:30+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 122 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:15:35+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0400s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0240s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0310s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','2fc795f1d62309cb8b0cdb3363972902') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0460s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0190s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0320s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0230s ]
+NOTIC: [8] Undefined offset: 36 D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:17:35+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 111 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-03-08T09:17:40+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0590s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0320s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','2fc795f1d62309cb8b0cdb3363972902') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0530s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0340s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0480s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0260s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','15f4087b6e964087c2c4e40005716570') [ RunTime:0.2180s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0370s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:19:58+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:20:03+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0680s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0580s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0600s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','2fc795f1d62309cb8b0cdb3363972902') [ RunTime:0.0300s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0250s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0880s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.1030s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','15f4087b6e964087c2c4e40005716570') [ RunTime:0.1050s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0790s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','15f4087b6e964087c2c4e40005716570') [ RunTime:0.0320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2017-03-08T09:26:54+08:00 ] ::1 /TP_EXCEL/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:26:56+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+NOTIC: [8] A non well formed numeric value encountered D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 87 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:27:40+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 105 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-03-08T09:32:58+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:33:02+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:36:42+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','msyc@2016') [ RunTime:0.1070s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','msyc@2016') [ RunTime:0.0940s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','msyc@2016') [ RunTime:0.1610s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','Msyc@2016') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','msyc@2016') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','msyc@2016') [ RunTime:0.0320s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','msyc@2016') [ RunTime:0.0210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:36:44+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:36:57+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-03-08T09:37:00+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:39:15+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:40:35+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:40:40+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','msyc@2016') [ RunTime:0.0570s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','msyc@2016') [ RunTime:0.0310s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','Msyc@2016') [ RunTime:0.0460s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','msyc@2016') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','msyc@2016') [ RunTime:0.0330s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','msyc@2016') [ RunTime:0.0230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:40:41+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:41:39+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:41:40+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:41:47+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:42:38+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2017-03-08T09:43:49+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 104 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:43:50+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:44:13+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 104 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:44:14+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:45:54+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:45:55+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:45:58+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:46:11+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:47:45+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+ERR: 非法操作:show
+
+[ 2017-03-08T09:47:51+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:47:55+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:48:04+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:48:11+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','msyc@2016') [ RunTime:0.0380s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','msyc@2016') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','Msyc@2016') [ RunTime:0.0470s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','msyc@2016') [ RunTime:0.0170s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','msyc@2016') [ RunTime:0.0200s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','msyc@2016') [ RunTime:0.0260s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-03-08T09:48:12+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:49:01+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-03-08T09:49:14+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','msyc@2016') [ RunTime:0.0550s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','Msyc@2016') [ RunTime:0.0250s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','msyc@2016') [ RunTime:0.0160s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','msyc@2016') [ RunTime:0.0290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:49:16+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:51:26+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:52:20+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 114 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Runtime\Cache\Home\ef90aeb0d15d5181851dc046c9941189.php 第 18 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:54:26+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-03-08T09:55:18+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:55:51+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:56:15+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-03-08T09:56:29+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:56:36+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:56:41+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-03-08T09:56:46+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:56:52+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:56:54+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:57:15+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T09:57:38+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:57:56+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:58:13+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:58:28+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-03-08T09:58:39+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:59:24+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T09:59:29+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T09:59:51+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T09:59:58+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T10:00:05+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T10:00:06+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T10:00:38+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T10:00:52+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T10:01:38+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-03-08T10:02:16+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T10:02:17+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T10:02:22+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T10:02:28+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-03-08T10:02:54+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T10:03:24+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T10:04:13+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-03-08T10:04:34+08:00 ] ::1 /TP_EXCEL/Home/Index/import
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+NOTIC: [8] Undefined variable: options D:\UPUPW_AP5.6\htdocs\TP_EXCEL\ThinkPHP\Library\Vendor\PHPExcel\PHPExcel\Settings.php 第 384 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0050s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('应用汇（不再收录）','15324407712/YYH6773845805','msyc@2016') [ RunTime:0.0390s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('小米开放平台（未上传）','15324407712','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('腾讯开发平台','3446371037','msyc@2016') [ RunTime:0.0230s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('华为','android@msyc.com.cn','Msyc@2016') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('搜狗','android@msyc.com.cn','msyc@2016') [ RunTime:0.0440s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('百度','13656120413','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('PP助手','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('360','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('vivo开发者平台','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('oppo开发者平台','3446371037@qq.com','msyc@2016') [ RunTime:0.0210s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('豌豆荚（包含魅族商店）','android@msyc.com.cn','msyc@2016') [ RunTime:0.0220s ]
+SQL: INSERT INTO `think_data` (`name`,`account`,`password`) VALUES ('魅族（豌豆荚上传成功即可）','13656120413','msyc@2016') [ RunTime:0.0220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-03-08T10:04:35+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-08T10:04:39+08:00 ] ::1 /TP_EXCEL/index.php/Home/Index/export?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\UPUPW_AP5.6\htdocs\TP_EXCEL\Application\Home\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `think_data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_data`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
